@@ -1,0 +1,53 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "温联星研究组"
+
+disablePathToLower = true
+
+[blackfriday]
+    fractions = false
+
+[[menu.main]]
+    name = "首页"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "研究组成员"
+    url = "/member"
+    weight = 2
+
+[[menu.main]]
+    name = "出版文献"
+    url = "/publications"
+    weight = 3
+
+[[menu.main]]
+    name = "研究动态"
+    url = "/research"
+    weight = 4
+
+[[menu.main]]
+    name = "媒体报道"
+    url = "/report"
+    weight = 5
+
+[[menu.main]]
+    name = "科普知识"
+    url = "/popsci"
+    weight = 6
+
+[[menu.main]]
+    name = "资源链接"
+    url = "/resource"
+    weight = 7
+
+[[menu.main]]
+    name = "合作交流"
+    url = "/meeting"
+    weight = 8
+
+[[menu.main]]
+    name = "联系我们"
+    url = "/contact"
+    weight = 9

@@ -1,0 +1,23 @@
+{{ define "main" }}
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0" class="middlebg">
+  <tr>
+
+    {{ partial "siderbar" . }}
+
+    <td width="729" align="left" valign="top">
+      <div class="wz">您现在的位置：
+        <span><a href="/">首页</a>&gt;<a href="/{{ .Section }}">{{ .Section }}</a></span>
+      </div>
+      <div class="ejcontent">
+        <center>
+          <h1>{{.Title}}</h1>
+          {{ with .Params.date }}
+          {{ .Format "2006-01-02" }}
+          {{ end }}
+        </center>
+        {{ .Content }}
+      </div>
+    </td>
+  </tr>
+</table>
+{{ end }}

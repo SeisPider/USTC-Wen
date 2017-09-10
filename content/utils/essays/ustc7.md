@@ -1,0 +1,15 @@
+---
+title:  USTC essay 07
+---
+
+Higher education, which comes after early childhood education, primary education and secondary education, is the final stage of formal learning. In most countries, higher education is optional, whereas primary and secondary education are compulsory. After completing secondary education, people usually have to think clearly whether they need a higher education. There are many forms of higher education, usually provided by universities, academies, colleges, vocational schools, trade schools, and other career colleges. Universities and colleges, which most people assume to be the only places for higher education, are simply a small part of it.
+
+　  Everyone has the right to pursue higher education. However, not everybody is able to do it. Due to the limited space and education resources, universities and colleges are always accepting bright and enthusiastic students and rejecting ordinary ones. Even the people who’re qualified to have access to higher education still need to spend four to even ten years to finish their higher education to get a bachelor, master or doctoral degree.
+
+　  Many people, some of whom are already highly educated, think that higher education is useless. In their opinions, it’s not worth spending that much time and money to obtain a single degree from higher education. They think the society values one’s experience and skills rather than his or her degree. They have seen so many graduated students under the state of unemployment after graduation and are inspired by many successful people, like Steve Jobs and Bill Gates, who dropped out of school to start their own career. They also think that the knowledge they learned in universities and colleges is worthless. For example they will never need to use calculus for shopping, speak poem when talking, or master Newton’s three laws of motion for driving.  
+
+　  People who perceive higher education useless are obviously biased. Life is not only about eating, talking, and sleeping. In higher education, people are free to explore a specialized subject which they are mostly interested in. While receiving a degree, people can acquire specialized knowledge, technology, critical thinking, more importantly, cultivate learning ability. Higher education may offer more career opportunity, and usually higher salary. In today's society, talent is more important than physical strength. With a higher education as basis, people can acquire knowledge in their daily life, which makes them more competitive when they’re older. However, people without a higher education, may have no ability to discover the beauty of science and lose their competitiveness when needed.
+
+- USTC [\#1](/utils/essays/ustc1) [\#2](/utils/essays/ustc2) [\#3](/utils/essays/ustc3) [\#4](/utils/essays/ustc4) [\#5](/utils/essays/ustc5) [\#6](/utils/essays/ustc6)  [\#7](/utils/essays/ustc7)  [\#8](/utils/essays/ustc8) [\#9](/utils/essays/ustc9) [\#10](/utils/essays/ustc10)
+
+- USA [\#1](/utils/essays/usa1) [\#2](/utils/essays/usa2) [\#3](/utils/essays/usa3) [\#4](/utils/essays/usa4) [\#5](/utils/essays/usa5) [\#6](/utils/essays/usa6) [\#7](/utils/essays/usa7)       

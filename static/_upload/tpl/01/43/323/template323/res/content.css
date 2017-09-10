@@ -1,0 +1,79 @@
+@import url("category.css");
+#main{
+	background: url("bg_200_3.png") repeat-y;
+}
+#main .mTop{
+	width: 200px;
+}
+#main .mMain{
+	width: 558px;
+}
+#xxxx .title{
+	width: 100%;
+	height: 43px;
+	background: url("18.png") 0px -10px;
+}
+
+.articleShowTitle{
+	display: block;
+	color: #4A81B5;
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 25px;
+	text-align: center;
+}
+.articleShowSubtitle{
+	display: block;
+	color: #4A81B5;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 25px;
+	text-align: center;
+}
+.articleShowTime{
+	display: block;
+	margin: 10px 0px;
+	padding: 0px;
+	width: 100%;
+	height: 20px;
+	line-height: 20px;
+	background-color: #cccccc;
+	text-align: right;
+}
+.articleSummary{
+	display: block;
+	margin: 0px 0px 10px;
+	padding: 0px 5px;
+	background: #dedede;
+	color: #4A81B5;
+	font-size: 12px;
+	text-indent: 24px;
+	line-height: 20px;
+}
+.articleShowContent{
+	display: block;
+	font-size: 13px;
+	line-height: 20px;
+	color: black;
+}
+.articleShowContent *{
+	font-size: 13px;
+	color: black;
+}
+.articleShowContent a, .articleShowContent a:visited{
+	color: #ff6600!important;
+	text-decoration: underline!important;	
+}
+.articleShowContent table{
+	border-top: 1px solid #d8e8f0;
+	border-left: 1px solid #d8e8f0;
+}
+.articleShowContent td{
+	margin: 0px;
+	border-right: 1px solid #d8e8f0;
+	border-bottom: 1px solid #d8e8f0;
+	padding: 0px;
+}
+.articleShowContent td{
+	text-indent: 0px;
+}

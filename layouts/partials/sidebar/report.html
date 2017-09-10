@@ -1,0 +1,17 @@
+<table width="242" border="0" cellspacing="0" cellpadding="0" id="tztg">
+  <tr>
+    <td height="29" align="left" background="/_upload/tpl/00/d3/211/template211/res/index_12.gif" class="title">
+      <span class="more"><a href="/report">更多>></a></span>
+      媒体报道
+    </td>
+  </tr>
+  <tr>
+    <td align="left" class="content1">
+      <ul class="list-items">
+        {{ range first 3 (where .Site.Pages.ByDate.Reverse "Section" "report") }}
+        <li><a href='{{ .Permalink }}' target='_blank' title='{{ .Title }}'>{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+    </td>
+  </tr>
+</table>
