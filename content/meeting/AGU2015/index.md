@@ -44,4 +44,4 @@ Zhou Lu and Lianxing Wen, An Abnormal S1-type Tide Observed in Borehole Strainme
 
 Xiaohan Chen and Lianxing Wen,  Oceanic Path Effects of Microseismic Waves, S41B-2755
 
-[陈箫翰](chenxh.jpg) [雷伟](leiw.jpg) [陆洲](luz.jpg) [毛仕卓](maosz.jpg) [唐兰兰](tangll.jpg) [田冬冬](tiandd.jpg) [姚家园](yaojy.jpg) [张淼](zhangm.jpg) [易航](yih.jpg)
+[陈箫翰](chenxh.png) [雷伟](leiw.png) [陆洲](luz.png) [毛仕卓](maosz.png) [唐兰兰](tangll.png) [田冬冬](tiandd.png) [姚家园](yaojy.png) [张淼](zhangm.png) [易航](yih.png)

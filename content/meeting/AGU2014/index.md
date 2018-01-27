@@ -34,4 +34,4 @@ Xiaohan Chen and Lianxing Wen, Microseismic source in North Atlantic Ocean, S41A
 ![](thumb_luz.jpg)
 Zhou Lu and Lianxing Wen, An anomalous S1-type tide observed in borehole strainmeters, NS33A-3964
 
-[陈箫翰](chenxh.jpg)  [陆洲](luz.jpg)  [田冬冬](tiandd.jpg) [姚家园](yaojy.jpg) [张淼](zhangm.jpg) [易航](yih.jpg) [王毅](wangy.jpg) [王文明](wangwm.jpg)
+[陈箫翰](chenxh.png)  [陆洲](luz.png)  [田冬冬](tiandd.png) [姚家园](yaojy.png) [张淼](zhangm.png) [易航](yih.png) [王毅](wangy.png) [王文明](wangwm.png)

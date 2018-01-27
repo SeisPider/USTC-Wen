@@ -46,4 +46,4 @@ ABSTRACT NUMBER: S11A-2296
 Tidal Amplitude Changes over Time Observed in Borehole Strainmeters
 ABSTRACT NUMBER: GC31A-1024
 
-[陈箫翰](chenxh.jpg)  [陆洲](luz.jpg)  [田冬冬](tiandd.jpg) [姚家园](yaojy.jpg) [张淼](zhangm.jpg) [易航](yih.jpg) [王文明](wangwm.jpg)
+[陈箫翰](chenxh.png)  [陆洲](luz.png)  [田冬冬](tiandd.png) [姚家园](yaojy.png) [张淼](zhangm.png) [易航](yih.png) [王文明](wangwm.png)
