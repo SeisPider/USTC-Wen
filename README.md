@@ -1,41 +1,33 @@
 ## USTC-Wen
 
-Research group website of Geolab in the ![University of Science and Technology of China](www.ustc.edu.cn)
-
-## Getting the website code
-
-Get the latest sample code from GitHub using Git or download the repository as a ZIP file.
-(![Download](https://github.com/SeisPider/USTC-Wen/archive/master.zip))
-
-    git clone https://github.com/SeisPider/USTC-Wen.git
-
+Website of Prof. Lianxing Wen's group in [University of Science and Technology of China](http://www.ustc.edu.cn).
 
 ## Before you begin
 
 1.  Download and install the ![Hugo](https://github.com/gohugoio/hugo), which is
- a fast and flexible static site generator.
+    a fast and flexible static site generator.
 
-1. Get this website from github  
+2.  Get source code from github
 
+        git clone https://github.com/SeisPider/USTC-Wen.git
 
-## Run Locally
+## Run locally
 
-You need to use Hugo to preview the local website.
+You need to use Hugo to preview the website locally:
 
-1. Go to root directory of website  
+1. Go to root directory of website
 
-1. Run `hugo server` and view [http://localhost:1313](http://localhost:1313) on any browser.
+2. Run `hugo server` and open [http://localhost:1313](http://localhost:1313) on any browser.
 
-## Contributing changes
+## Contributing
 
-* Create a new branch for change test
+Please follow the instructions below to contribute:
 
-* Change codes and re-build website by running `hugo`
+1.  Create a new branch for changes
+2.  Change codes and re-build website by running `hugo`
+3.  Commit and push local change to origin
+4.  Send a PR
 
-* Commit and push local change to origin
+## License
 
-* Send PR
-
-## Licensing
-
-* See ![MIT](https://rem.mit-license.org/)
+All Rights Reserved.
