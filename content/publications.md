@@ -1,11 +1,11 @@
 ---
 title: 历年发表文献
-date: 2017-10-10
+date: 2018-01-27
 ---
 
 ## 2017
 
-- Lu, Z. and **Wen, L.**, 2017, Abnormally strong daily-cycle S1 strain tide: observation and physical mechanism, ***J. Geophys. Res. Solid Earth***, doi:[10.1002/2017JB014383](https://dx.doi.org/10.1002/2017JB014383), (*accepted*).
+- Lu, Z. and **Wen, L.**, 2017, Abnormally strong daily-cycle S1 strain tide: observation and physical mechanism, ***J. Geophys. Res. Solid Earth***, 122(10), 8525-8537, doi:[10.1002/2017JB014383](https://dx.doi.org/10.1002/2017JB014383).
 - Tian, D. and **Wen, L.**, 2017, Seismological evidence for a localized mushy zone at the Earth's inner core boundary, ***Nat. Commun.***, 8(1), 165, doi:[10.1038/s41467-017-00229-9](https://dx.doi.org/10.1038/s41467-017-00229-9).
 
 ## 2016
