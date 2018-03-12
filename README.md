@@ -4,7 +4,7 @@ Website of Prof. Lianxing Wen's group in [University of Science and Technology o
 
 ## Before you begin
 
-1.  Download and install the ![Hugo](https://github.com/gohugoio/hugo), which is
+1.  Download and install the [Hugo](https://github.com/gohugoio/hugo), which is
     a fast and flexible static site generator.
 
 2.  Get source code from github
