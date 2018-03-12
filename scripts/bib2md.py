@@ -6,11 +6,11 @@
 # - Author: Dongdong Tian @ USTC
 # - Date: 2017-09-30
 #
+import re
 import sys
 from datetime import date
 
-# must install the latest bibitextparser
-# pip install https://github.com/sciunto-org/python-bibtexparser
+# bibitextparser>=1.0.0
 import bibtexparser
 from bibtexparser.bparser import BibTexParser
 from bibtexparser.customization import *
@@ -39,6 +39,12 @@ abbr = {
 
 def author(record):
 
+    # Do nothing for Chinese papers
+    if re.findall(r'[\u4e00-\u9fff]+', record['author']):
+        record['author'] = ", ".join(record['author'].split(" and "))
+        return record
+
+    # precess of English papers
     authors = []
     for author in getnames(record['author'].split(" and ")):
         name = splitname(author)
@@ -127,8 +133,10 @@ if __name__ == "__main__":
         sys.exit()
     bibfile, mdfile = sys.argv[1:]
 
+    startyear, endyear = 1994, 2018
+
     biblist = {}
-    for year in range(1994, 2018):
+    for year in range(startyear, endyear+1):
         biblist[year] = []
 
     # convert bib items to markdown list
@@ -150,7 +158,7 @@ if __name__ == "__main__":
         md.write("date: {:s}\n".format(date.today().strftime("%Y-%m-%d")))
         md.write("---\n")
 
-        for year in reversed(range(1994, 2018)):
+        for year in reversed(range(startyear, endyear+1)):
             if not biblist[year]:
                 continue
 
