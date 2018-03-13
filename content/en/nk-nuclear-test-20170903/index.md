@@ -19,28 +19,6 @@ aliases:
 
 <body>
 <table width="1000" height="26" border="0" align="center" cellpadding="0" cellspacing="0" background="/_upload/tpl/00/d3/211/template211/res/index_01.gif" OLDSRC="/_upload/tpl/00/d3/211/template211/res/index_01.gif" OLDID="22389" RELATED="1">
-<tr>
-<td width="276" align="left">
-<div id="head"><img src="/_upload/tpl/00/d3/211/template211/res/index_09.gif" class="img" OLDSRC="/_upload/tpl/00/d3/211/template211/res/index_09.gif" OLDID="22401" RELATED="1"><a href="http://email.ustc.edu.cn">Email</a>&nbsp;&nbsp;<img src="/_upload/tpl/00/d3/211/template211/res/index_09.gif" class="img" OLDSRC="/_upload/tpl/00/d3/211/template211/res/index_09.gif" OLDID="22401" RELATED="1"><a href="http://seis.ustc.edu.cn">Chinese Version </a></div>
-</td>
-<td width="724" align="right">
-<table width="40%" border="0" cellspacing="0" cellpadding="0" align="right">
-<tr>
-<td width="24%" align="right" valign="middle"><img src="/_upload/tpl/00/d3/211/template211/res/index_02.gif" width="32" height="21" OLDSRC="/_upload/tpl/00/d3/211/template211/res/index_02.gif" OLDID="22402" RELATED="1"></td>
-<td width="47%">
-<form id="form1" name="form1" method="POST" action="/_web/search/doSearch.do?locale=zh_CN&amp;request_locale=zh_CN&amp;_p=YXM9MjIzJnQ9NTY0JmQ9NjMzOCZwPTEmbT1OJg__" target="_blank" onsubmit="if ($('#keyword').val() === '请输入关键字') { $('#keyword').val(''); }">
-<label>
-<input id="keyword" name="keyword" style="width: 150px" class="keyword" type="text" value="请输入关键字" onfocus="if (this.value === '请输入关键字') { this.value = ''; }" onblur="if (this.value === '') { this.value = '请输入关键字'; }">
-</label>
-<td>
-                    <input name="btnsearch" class="search" type="submit" value="">
-                </td>
-</form>
-</td>
-</tr>
-</table>
-</td>
-</tr>
 </table>
 <table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
 <tr>
