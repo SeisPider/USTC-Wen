@@ -10,7 +10,6 @@ install:
 
 script:
   - ./hugo
-  - ping $FTPHOST
 
 after_success:
   - lftp -c "open ftp://$USER:$PASSWD@$FTPHOST; mirror -eRv public htdocs; quit;"
