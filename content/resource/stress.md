@@ -12,9 +12,9 @@ Please refer to the article in the reference list for more details about the met
 
 
 
-Welcome to use the database. Please ![click here](https://github.com/luzhou-ustc/global-stress) to redirect to the download website. If you have trouble clicking the link, please copy and paste this website address to your browser’s address bar: https://github.com/luzhou-ustc/global-stress
+Welcome to use the database. Please [click here](https://github.com/luzhou-ustc/global-stress) to redirect to the download website. If you have trouble clicking the link, please copy and paste this website address to your browser’s address bar: https://github.com/luzhou-ustc/global-stress
 
-If you have any questions or suggestions about the database, welcome to contact Zhou Lu (luzhou@mail.ustc.edu.cn) or Hang Yi (yihang@xcu.edu.cn).
+If you have any questions or suggestions about the database, welcome to contact Zhou Lu (<luzhou@mail.ustc.edu.cn>) or Hang Yi (<yihang@xcu.edu.cn>).
 
 
 **Reference:**
