@@ -6,5 +6,7 @@ content/publications.md: scripts/wen.bib scripts/bib2md.py
 build: content/publications.md
 	hugo
 
+deploy: clean build
+	lftp -c "open ftp://${FTP_USER}:${FTP_PASSWD}@${FTP_HOST}; mirror -eRv public htdocs; quit;"
 clean:
 	-rm -r public/
