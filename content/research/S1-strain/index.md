@@ -16,8 +16,9 @@ aliases:
 
 该论文的作者为研究组的博士生陆洲及其导师温联星教授。该研究得到了国家自然科学基金和中国科学院的资金支持。
 
-论文链接：http://onlinelibrary.wiley.com/doi/10.1002/2017JB014383/full
-论文引用：Lu, Z., & Wen, L. (2017). Abnormally strong daily-cycle S1 strain tide: Observation and physical mechanism. Journal of Geophysical Research: Solid Earth, 122(10). https://doi.org/10.1002/2017JB014383
+**论文链接：**http://onlinelibrary.wiley.com/doi/10.1002/2017JB014383/full
+
+**论文引用：**Lu, Z., & Wen, L. (2017). Abnormally strong daily-cycle S1 strain tide: Observation and physical mechanism. Journal of Geophysical Research: Solid Earth, 122(10). https://doi.org/10.1002/2017JB014383
 
 {{<figure src="strain_meter_location.jpg" caption=" 图1 异常S1应变固体潮的观测和分析。（a）B087应变仪中观测到的潮汐日波的振幅响应（观测/理论振幅之比）。绿、蓝和红颜色的线分别代表潮汐日波（除S1外）振幅的平均值、一倍方差和三倍方差。（b）B087应变仪中观测到的潮汐日波的相位。不同颜色线条的意义与图a类似。（c）S1应变固体潮放大倍数（“S1观测/理论振幅比值”与“其它日波观测/理论振幅比值平均值”之比）的空间分布。不同颜色的圆圈代表同一应变仪不同方向的观测结果。（d）原始应变数据（蓝线）与理论潮汐（红线）的傅里叶频谱对比。">}}
 
