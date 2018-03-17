@@ -12,6 +12,6 @@ Compared to elementary education and skill education, higher education is kind o
 
 　  For higher education, the output is not necessarily consistent with the instant mode of input-output, the essence of higher education lies in discovering, understanding and changing the world. Through higher education, we know who we are, and always become curious, critical thinking and learn new things, so we can inspire ourselves beyond the former range of awareness and ability, thus promoting social progress.
 
-- USTC [\#1](/utils/essays/ustc1) [\#2](/utils/essays/ustc2) [\#3](/utils/essays/ustc3) [\#4](/utils/essays/ustc4) [\#5](/utils/essays/ustc5) [\#6](/utils/essays/ustc6)  [\#7](/utils/essays/ustc7)  [\#8](/utils/essays/ustc8) [\#9](/utils/essays/ustc9) [\#10](/utils/essays/ustc10)
+USTC: [\#1](/meeting/highereducation/ustc1) [\#2](/meeting/highereducation/ustc2) [\#3](/meeting/highereducation/ustc3) [\#4](/meeting/highereducation/ustc4) [\#5](/meeting/highereducation/ustc5) [\#6](/meeting/highereducation/ustc6)  [\#7](/meeting/highereducation/ustc7)  [\#8](/meeting/highereducation/ustc8) [\#9](/meeting/highereducation/ustc9) [\#10](/meeting/highereducation/ustc10)
 
-- USA [\#1](/utils/essays/usa1) [\#2](/utils/essays/usa2) [\#3](/utils/essays/usa3) [\#4](/utils/essays/usa4) [\#5](/utils/essays/usa5) [\#6](/utils/essays/usa6) [\#7](/utils/essays/usa7)       
+USA: [\#1](/meeting/highereducation/usa1) [\#2](/meeting/highereducation/usa2) [\#3](/meeting/highereducation/usa3) [\#4](/meeting/highereducation/usa4) [\#5](/meeting/highereducation/usa5)  [\#6](/meeting/highereducation/usa6) [\#7](/meeting/highereducation/usa7)        

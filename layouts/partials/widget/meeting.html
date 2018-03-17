@@ -7,13 +7,12 @@
   <tr>
     <td align="left" class="fnxwcontent">
       <ul class="list-items">
-        <li><span class="time">2017-03-20</span>
-          <a class="main-url" href='/2017/0320/c10088a185211/page.htm' target='_blank' title='What is higher education?'>
-            <font style='font-weight:bold;'>What is higher education?</font>
-          </a>
+        {{ range first 5 (where .Site.Pages.ByDate.Reverse "Section" "meeting") }}
+        <li>
+          <span class="time">{{ .Date.Format "2006-01-02" }}</span>
+          <a class="main-url" href="{{ .Permalink }}" target="_blank" title="{{ .Title }}">{{ .Title }}</a>
         </li>
-        <li><span class="time">2016-01-01</span><a class="main-url" href='/2016/0101/c10088a113632/page.htm' target='_blank' title='AGU 2015 Fall Meeting 参会海报'>AGU 2015 Fall Meeting 参会海报</a></li>
-        <li><span class="time">2014-12-28</span><a class="main-url" href='/2014/1228/c10088a113623/page.htm' target='_blank' title='AGU 2014 Fall Meeting 参会海报'>AGU 2014 Fall Meeting 参会海报</a></li>
+        {{ end }}
       </ul>
     </td>
   </tr>

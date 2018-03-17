@@ -1,9 +1,9 @@
 all: build
 
-content/publications.md: scripts/wen.bib scripts/bib2md.py
+content/publication.md: scripts/wen.bib scripts/bib2md.py
 	python scripts/bib2md.py scripts/wen.bib content/publications.md
 
-build: content/publications.md
+build: content/publication.md
 	hugo
 
 deploy: clean build
