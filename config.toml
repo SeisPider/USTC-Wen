@@ -19,7 +19,7 @@ disablePathToLower = true
 
 [[menu.main]]
     name = "出版文献"
-    url = "/publications"
+    url = "/publication"
     weight = 3
 
 [[menu.main]]
