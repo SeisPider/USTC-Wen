@@ -1,6 +1,6 @@
 ---
 title: 历年发表文献
-date: 2018-03-14
+date: 2018-03-18
 ---
 
 ## 2018
@@ -122,7 +122,7 @@ date: 2018-03-14
 ## 1998
 
 - Helmberger, D., **Wen, L.** and Ding, X., 1998, Seismic evidence that the source of the Iceland hotspot lies at the core-mantle boundary, ***Nature***, 396(6708), 251--255, doi:[10.1038/24357](https://dx.doi.org/10.1038/24357). [(Reprint pdf)](http://222.195.83.195/wen/Reprints/HelmbergerEA98Nature.pdf)
-- **Wen, L.**, 1998, Ultra-Low Velocity Zones Near the Core-Mantle Boundary from Broadband PKP Precursors, ***Science***, 279(5357), 1701--1703, doi:[10.1126/science.279.5357.1701](https://dx.doi.org/10.1126/science.279.5357.1701). [(Reprint pdf)](http://222.195.83.195/wen/Reprints/WenHelmberger98Science.pdf)
+- **Wen, L.** and Helmberger, D., 1998, Ultra-Low Velocity Zones Near the Core-Mantle Boundary from Broadband PKP Precursors, ***Science***, 279(5357), 1701--1703, doi:[10.1126/science.279.5357.1701](https://dx.doi.org/10.1126/science.279.5357.1701). [(Reprint pdf)](http://222.195.83.195/wen/Reprints/WenHelmberger98Science.pdf)
 - **Wen, L.** and Helmberger, D., 1998, A two-dimensional P-SV hybrid method and its application to modeling localized structures near the core-mantle boundary, ***J. Geophys. Res.***, 103(B8), 17901--17918, doi:[10.1029/98jb01276](https://dx.doi.org/10.1029/98jb01276). [(Reprint pdf)](http://222.195.83.195/wen/Reprints/WenHelmberger98JGR.pdf)
 
 ## 1997

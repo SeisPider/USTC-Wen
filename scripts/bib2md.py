@@ -55,6 +55,7 @@ def author(record):
             authors[i] = '**Wen, L.**'
             break
 
+
     if len(authors) == 1:
         record['author'] = authors[0]
     else:

@@ -1,7 +1,7 @@
 all: build
 
 content/publication.md: scripts/wen.bib scripts/bib2md.py
-	python scripts/bib2md.py scripts/wen.bib content/publications.md
+	python scripts/bib2md.py scripts/wen.bib content/publication.md
 
 build: content/publication.md
 	hugo
