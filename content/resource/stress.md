@@ -19,4 +19,4 @@ If you have any questions or suggestions about the database, welcome to contact 
 
 **Reference:**
 
-Lu, Z., Yi, H., & Wen, L. (2018). Earth’s stress change over time. Submitted to Journal of Geophysical Research: Solid Earth.
+Lu, Z., Yi, H., & Wen, L. (2018). Earth’s stress change over time. Journal of Geophysical Research: Solid Earth, in revision.
