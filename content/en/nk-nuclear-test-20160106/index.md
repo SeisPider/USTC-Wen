@@ -3,7 +3,7 @@ title: "North Korea's 2016 Nuclear Test Location and Yield: Seismic Results from
 date: 2016-01-06
 aliases:
    - /_s223/2016/0909/c10084a113822/page.psp
-   - /en/201609/t20160909_253324.html
+   - /en/201601/t20160106_234881.html
 ---
 
 On January 6, 2016, the Democratic People's Republic of Korea (North Korea) announced that it conducted a hydrogen nuclear test. Based on the similarity of the seismic data between the 2016 event and North Korea's previous nuclear tests, we confirm that the 2016 event is a nuclear test in nature, although we are not able to determine if it is a hydrogen bomb test. We have determined that North Korea's 2016 nuclear test occurred at 01:30:01.038 UTC, 6 January 2016 (10:00:01.038 local time), at the location of (41°17'52.80''N, 129°4'17.40''E), with an estimated yield of 11.3±4.2 kt. North Korea's 2016 test site is located 800 meters north and 400 meters west of its 2013 nuclear test site, or 455 meters north and 853 meters west of its 2009 nuclear test site. The geographic precision of the location determination is 50 m. The estimated yield of the 2016 test is similar to that of the 2013 test (12.2±3.8 kt). Figure 1 shows the determined location and yield of North Korea's 2016 nuclear test, along with the locations and yields of its previous tests.

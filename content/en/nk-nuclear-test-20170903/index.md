@@ -3,6 +3,7 @@ title: "North Korea's 3 September 2017 Nuclear Test Location and Yield: Seismic 
 date: 2017-09-04
 aliases:
    - /_s223/2017/0904/c10084a191096/page.psp
+   - /2017/0904/c10084a191096/page.htm
 ---
 
 Based on the similarity of the seismic data between 3 September 2017 event and
