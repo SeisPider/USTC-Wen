@@ -1,6 +1,7 @@
 ---
 title: 国内各大媒体对本研究组发现地球内核边缘形状不规则的报道
 date: 2014-03-06
+type: post
 ---
 
 ![](ICB-topography-1.png)

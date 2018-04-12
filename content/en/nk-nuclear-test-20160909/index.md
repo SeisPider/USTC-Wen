@@ -4,6 +4,7 @@ date: 2016-09-10
 aliases:
    - /_s223/2016/0909/c10084a113807/page.psp
    - /en/201609/t20160909_253323.html
+type: post
 ---
   Based on the similarity of the seismic data between 9 September 2016 event and North Korea's previous nuclear tests, we confirm that 9 September 2016 event is a nuclear test in nature. We have determined that North Korea's 9 September 2016 nuclear test occurred at 00:30:01.366 UTC, (9:00:01.366 local time), 9 September 2016, at the location of (41°17'54.60''N, 129°4'40.80''E), with an estimated yield of 17.8±5.9 kt. The geographic precision of the location determination is 110 m. North Korea's 9 September 2016 test and its three previous tests (2016/01/06, 2013/02/12 and 2009/05/25) are located several hundred meters apart, beneath a same mountain. The estimated yield of 9 September 2016 test is higher than that of its previous tests (11.3±4.2 kt for 2016/01/06 test, 12.2±3.8 kt for 2013/02/12 test, and 7.0±1.9 kt for 2009/05/25 test). Figure 1 shows the determined location and yield of North Korea's 9 September 2016 nuclear test, along with the locations and yields of its previous tests.
 
