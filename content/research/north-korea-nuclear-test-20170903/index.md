@@ -24,6 +24,6 @@ type: post
 
 ## 本研究组对朝鲜先前数次核试验的研究工作
 
-- 中科大关于朝鲜2016年9月9日核试验的研究结果：http://seis.ustc.edu.cn/2016/0909/c10094a113704/page.htm
-- 中科大关于朝鲜2016年1月6日核试验的研究结果：http://seis.ustc.edu.cn/News/201601/t20160106_234889.html
-- 中科大关于朝鲜2013年核试验的研究结果：http://seis.ustc.edu.cn/News/201402/t20140210_189951.html
+- 中科大关于朝鲜2016年9月9日核试验的研究结果：http://seis.ustc.edu.cn/research/north-korea-nuclear-test-20160909/
+- 中科大关于朝鲜2016年1月6日核试验的研究结果：http://seis.ustc.edu.cn/research/north-korea-nuclear-test-20160106/
+- 中科大关于朝鲜2013年核试验的研究结果：http://seis.ustc.edu.cn/research/north-korea-nuclear-test-20130212/
