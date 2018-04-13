@@ -1,5 +1,6 @@
 ---
 title:  USTC essay 08
+type: NotList
 ---
 This essay seems like a review of my college life in which all things seemed to be colorful and wonderful. These feels come from several experiences provided by higher education.
 

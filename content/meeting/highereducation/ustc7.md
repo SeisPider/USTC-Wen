@@ -1,5 +1,6 @@
 ---
 title:  USTC essay 07
+type: NotList
 ---
 
 Higher education, which comes after early childhood education, primary education and secondary education, is the final stage of formal learning. In most countries, higher education is optional, whereas primary and secondary education are compulsory. After completing secondary education, people usually have to think clearly whether they need a higher education. There are many forms of higher education, usually provided by universities, academies, colleges, vocational schools, trade schools, and other career colleges. Universities and colleges, which most people assume to be the only places for higher education, are simply a small part of it.

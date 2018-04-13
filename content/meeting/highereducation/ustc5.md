@@ -1,5 +1,6 @@
 ---
 title:  USTC essay 05
+type: NotList
 ---
 
 In a broad sense, education is the process of learning knowledge, skills, values and so on. Higher education is relative to primary education and skill education. The reason why higher education is higher is that it teaches us not only professional knowledge, but also self-awareness, exploration of the universe, independent thinking and multiple values.
@@ -33,4 +34,3 @@ In a broad sense, education is the process of learning knowledge, skills, values
 USTC: [\#1](/meeting/highereducation/ustc1) [\#2](/meeting/highereducation/ustc2) [\#3](/meeting/highereducation/ustc3) [\#4](/meeting/highereducation/ustc4) [\#5](/meeting/highereducation/ustc5) [\#6](/meeting/highereducation/ustc6)  [\#7](/meeting/highereducation/ustc7)  [\#8](/meeting/highereducation/ustc8) [\#9](/meeting/highereducation/ustc9) [\#10](/meeting/highereducation/ustc10)
 
 USA: [\#1](/meeting/highereducation/usa1) [\#2](/meeting/highereducation/usa2) [\#3](/meeting/highereducation/usa3) [\#4](/meeting/highereducation/usa4) [\#5](/meeting/highereducation/usa5)  [\#6](/meeting/highereducation/usa6) [\#7](/meeting/highereducation/usa7)        
- 

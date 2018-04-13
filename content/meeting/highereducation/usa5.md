@@ -1,5 +1,6 @@
 ---
 title: USA essay 5
+type: NotList
 ---
 
 Many consider the purpose of higher education is to enable an individual to obtain a well-paying job. For most of the people in Ward Melville, at least, college has been an expectation for most our lives, and is the logical next step in our entry into young adulthood. College also serves as a transitional period as young adults learn how to be self-sufficient. Many people have been dependent on their parents for much of their childhood, and college forces them to take on responsibilities that they had previously not had.

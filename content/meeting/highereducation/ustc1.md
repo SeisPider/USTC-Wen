@@ -1,5 +1,6 @@
 ---
 title:  USTC essay 01
+type: NotList
 ---
 
 Compared to elementary education and skill education, higher education is kind of thinking based on something more primitive，simpler but more important. In my opinion, the key to higher education is about self-cognition, curiosity to world, critical thinking as well as love and tolerance for different kinds of culture.

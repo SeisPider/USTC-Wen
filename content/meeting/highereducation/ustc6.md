@@ -1,5 +1,6 @@
 ---
 title:  USTC essay 06
+type: NotList
 ---
 
 When I was in my junior high and senior high, I was told many times that the six years in high school is the most important part of life for everyone. In this period, we studied hard and tried to obtain desired results in the college entrance examinations. And free university life awaits us after that.

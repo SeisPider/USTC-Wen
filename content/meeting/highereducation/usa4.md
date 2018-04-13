@@ -1,5 +1,6 @@
 ---
 title: USA essay 1
+type: NotList
 ---
 
 To find a single, definite purpose for higher education is like finding a purpose for government or religion: it is a product of society and has played a significant role all around the world for the better part of history. When people are asked about this role, several answers given may be considered as “correct”. To find all possible reasons for the existence of higher education, one must be able to consider the perspectives of different people—the cynical, the ambitious, the intellectual, the altruistic, and so on—as well as peer into the bigger picture of how such complex social systems have developed.

@@ -1,5 +1,6 @@
 ---
 title:  USTC essay 09
+type: NotList
 ---
 
 　  Higher education is a filtrating of quasi-elites for high school students, a higher platform for college students, and a delivery room of the elites of a society.

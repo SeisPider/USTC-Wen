@@ -1,5 +1,6 @@
 ---
 title:  USTC essay 03
+type: NotList
 ---
 
 With the rapid growth of economy and fast development of society, higher education has become increasingly important in our daily life.

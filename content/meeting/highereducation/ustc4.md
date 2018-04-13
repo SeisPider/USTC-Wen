@@ -1,5 +1,6 @@
 ---
 title:  USTC essay 04
+type: NotList
 ---
 
 When I was young, all elders around me told me, “You guys must take earnestly on study and be admitted to Tsinghua University (THU) or Peking University (PKU)”. Maybe in their minds, THU and PKU were regarded as the symbol of higher education. However, most of them had never even been to Beijing, but why were they so sure of it? When I considered the problem, the meaning of higher education became gradually dim.

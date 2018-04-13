@@ -3,7 +3,6 @@ title: AGU 2013 Fall Meeting 参会海报
 date: 2014-03-25
 aliases:
    - /2014/0325/c10088a113549/page.htm
-type: post
 ---
 高分辨率海报请在附件下载
 

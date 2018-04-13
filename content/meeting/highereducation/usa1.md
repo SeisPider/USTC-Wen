@@ -1,5 +1,6 @@
 ---
 title: USA essay 1
+type : NotList
 ---
 
 When the time comes for individuals to receive a higher education, they will have reached the beginning of a new age in their reasoning capacity. It’s the time period in which we actually have the most passionate desire to learn, most intellectual capacity to develop analytical and critical thinking skills and most openmindedness to accept different viewpoints. Just as Martin Luther King Jr. pointed out, independent and critical thinking is the value that higher education will provide through a myriad of opportunities and exposure to different viewpoints. While these ideals would normally take decades to fully realize, higher education, which has already attracted the world’s best faculty, will make these ideals blossom at an accelerated rate. As a result, higher education has the capability to bring out the best of the people during a crucial time period by nurturing independent and critical minds and teaching methods to understand knowledge, so that those skills can be carried with the individuals for the rest of their lives.

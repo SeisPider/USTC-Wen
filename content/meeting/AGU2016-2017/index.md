@@ -1,7 +1,6 @@
 ---
 title: AGU 2016-2017 Fall Meeting 参会海报
 date: 2018-04-11
-type: post
 ---
 高分辨率海报请在附件下载
 

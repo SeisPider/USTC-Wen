@@ -1,5 +1,6 @@
 ---
 title: USA essay 2
+type: NotList
 ---
 
 Education is the durable basis upon which we have built our modern society. Historically and currently, both the access to education and the quality of this education has had a significant impact on multiple levels. The education we receive as individuals is essential to forming our identities as human beings, and will affect ourselves as much as it has the potential to affect others. In the modern era, education is important at the personal and societal levels; personal education directly influences an individual’s contributions to advancing human civilization, which in turn shapes progress and development throughout the world. A higher education is significant for these several reasons; it can raise the world to a higher standard as easily at it can elevate an individual. We pursue a higher education across every country and all continents for this reason. The purpose of obtaining a higher education transcends our priorities of living securely and comfortably; it is a noble endeavor that benefits the world as much as it benefits the individual.

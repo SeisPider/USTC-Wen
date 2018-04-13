@@ -1,5 +1,6 @@
 ---
 title: USA essay 6
+type: NotList
 ---
 
 The second chance colloquially called college

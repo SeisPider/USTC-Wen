@@ -1,5 +1,6 @@
 ---
 title:  USTC essay 02
+type: NotList
 ---
 
 Education is to teach people the accumulated experiences and discovered laws. In all ages, those experiences and laws are continually accumulated, and the futurities discover new knowledge and make human civilization continuously developed based on knowledge accumulated by the forefathers. Modern knowledge is so rich that children have to study in school and enter the higher school based on how much they have learned in the lower one, including elementary school, junior high school, senior high school and university.
@@ -13,4 +14,3 @@ Education is to teach people the accumulated experiences and discovered laws. In
 USTC: [\#1](/meeting/highereducation/ustc1) [\#2](/meeting/highereducation/ustc2) [\#3](/meeting/highereducation/ustc3) [\#4](/meeting/highereducation/ustc4) [\#5](/meeting/highereducation/ustc5) [\#6](/meeting/highereducation/ustc6)  [\#7](/meeting/highereducation/ustc7)  [\#8](/meeting/highereducation/ustc8) [\#9](/meeting/highereducation/ustc9) [\#10](/meeting/highereducation/ustc10)
 
 USA: [\#1](/meeting/highereducation/usa1) [\#2](/meeting/highereducation/usa2) [\#3](/meeting/highereducation/usa3) [\#4](/meeting/highereducation/usa4) [\#5](/meeting/highereducation/usa5)  [\#6](/meeting/highereducation/usa6) [\#7](/meeting/highereducation/usa7)        
-    

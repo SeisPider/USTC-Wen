@@ -19,7 +19,7 @@
               <td align="left">
                 <div class="page2">
                   <ul class="list-items">
-                    {{ range where .Pages "Type" "post"}}
+                    {{ range where .Pages "Type" "!=" "NotList"}}
                     <li >
                         <span class="time">{{ .Date.Format "2006-01-02" }}</span>
                         <a href="{{ .Permalink }}" target="_blank" title="{{ .Title }}">{{ .Title }}</a>

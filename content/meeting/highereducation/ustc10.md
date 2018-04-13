@@ -1,5 +1,6 @@
 ---
 title:  USTC essay 10
+type: NotList
 ---
 What is higher education? Education is a tree shaking a tree, a cloud promoting a cloud, and a soul awakening another soul (K.Jaspers, 1977). The best education is to attempt nothing and accomplish nothing: students do not see the occurrence of education, which has a real impact on their hearts and further assists students to fulfill their potential. This is the best education in the world (Jean-Jacques Rousseau, 1757). What do students learn from teachers? As an educator, they should not only teach students knowledge, teach students to exercise, but it is important to teach students how to behave. In education, all should be based on the educator's personality, because only personality can affect personality, and only personality can form personality (by Ushinski).
 

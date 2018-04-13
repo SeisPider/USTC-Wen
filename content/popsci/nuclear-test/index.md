@@ -1,7 +1,6 @@
 ---
 title: 核试验监测
 date: 2014-03-10
-type: post
 ---
 
 ![](nuclear-test-image.png)

@@ -3,7 +3,6 @@ title: AGU 2015 Fall Meeting 参会海报
 date: 2016-01-01
 aliases:
    - /2016/0101/c10088a113632/page.htm
-type: post
 ---
 高分辨率海报请在附件下载
 

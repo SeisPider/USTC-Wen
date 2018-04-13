@@ -3,7 +3,6 @@ title: 《我国地震减灾中地震学面临的巨大挑战》出版
 date:  2014-02-24
 aliases:
     - /2014/0224/c10094a113662/page.htm
-type: post
 ---
 
 {{<figure src="Fig1.png" caption="">}}
