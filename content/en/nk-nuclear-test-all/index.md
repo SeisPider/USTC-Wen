@@ -3,7 +3,6 @@ title: "North Korea's Nuclear Test Location and Yield: Seismic Results from USTC
 date: 2016-01-06
 aliases:
    - /_s223/2016/0106/c10084a113806/page.psp
-type: post
 ---
 
 - the Sept. 2016 event information: [click here](/_s223/2016/0909/c10084a113807/page.psp)

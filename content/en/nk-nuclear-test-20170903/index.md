@@ -4,7 +4,6 @@ date: 2017-09-04
 aliases:
    - /_s223/2017/0904/c10084a191096/page.psp
    - /2017/0904/c10084a191096/page.htm
-type: post
 ---
 
 Based on the similarity of the seismic data between 3 September 2017 event and
