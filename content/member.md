@@ -1,6 +1,5 @@
 ---
 title: 温联星简历
-date: 2014-02-10
 Type: Introduction
 ---
 

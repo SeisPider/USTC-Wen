@@ -1,6 +1,5 @@
 ---
 title: 组内研究生
-date: 2014-02-10
 Type: Introduction
 ---
 
