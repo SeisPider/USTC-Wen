@@ -1,6 +1,7 @@
 ---
 title: "Study indicates North Korea's nuclear test Mountain has collapsed"
 date: 2018-04-15
+type: en
 ---
 
 Mount Mantap, which hosted all of the North Korea's nuclear tests since
