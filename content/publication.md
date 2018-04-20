@@ -1,10 +1,11 @@
 ---
 title: 历年发表文献
-date: 2018-03-18
+date: 2018-04-19
 ---
 
 ## 2018
 
+- Lu, Z., Yi, H. and **Wen, L.**, 2018,  Loading-induced Earth’s stress change over time, ***J. Geophys. Res. Solid Earth***, (*accepted and in publication*).
 - 温联星, 田冬冬, 姚家园, 2018, 地球内核及其边界的结构特征和动力学过程, ***地球物理学报***, 61(3), 803-818, doi:[10.6038/cjg2018L0500](https://dx.doi.org/10.6038/cjg2018L0500).
 
 ## 2017

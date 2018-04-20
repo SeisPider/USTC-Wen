@@ -12,3 +12,7 @@
     </td>
   </tr>
 </table>
+
+{{ if .Params.math }}
+{{ partial "math" . }}
+{{ end }}
