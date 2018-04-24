@@ -13,8 +13,8 @@ body {
  margin: 0px auto;
  text-align:center;
 }
-img { 
-	margin: 0 auto; 
+img {
+	margin: 0 auto;
 	padding: 0;
 	display: block;
 }
@@ -148,8 +148,9 @@ a:hover{ color:#ff0000; text-decoration:underline;
 .fnxw .more a:hover{ color:#FF0000; text-decoration:underline;
 }
 
-.fnxwcontent ul{ list-style:none;padding:6px 10px; background:url(index_21.gif) repeat-x; background-color:#FFFFFF;
+.fnxwcontent ul{ list-style:none;padding:6px 10px;  background-color:#FFFFFF;
 }
+/*background:url(index_21.gif) repeat-x;*/
 .fnxwcontent ul li{ background:url(index_15.gif) no-repeat 0 8px; padding-left:10px; line-height:22px; color:#4E4E4E;
 }
 .fnxwcontent .time{ float:right; color:#8E8E8E; margin-right:5px;
