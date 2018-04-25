@@ -1,6 +1,6 @@
 ---
 title: "Study indicates North Korea's nuclear test Mountain has collapsed"
-date: 2018-04-15
+date: 2018-04-25
 ---
 
 Mount Mantap, which hosted all of the North Korea's nuclear tests since
@@ -36,7 +36,7 @@ any possible leaks of radioactive materials from the test site.
 **For the scientific publication of the study of seismic events after
 North Korea's 2017 nuclear test:**
 
-Tian D., Yao J., Wen L., 2018, Collapse and earthquake swarm after North Korea's 3 September 2017 nuclear test, *Geophysical Research Letters* XX(xx). doi:xxx
+Tian D., Yao J., Wen L., 2018, Collapse and earthquake swarm after North Korea's 3 September 2017 nuclear test, *Geophysical Research Letters*.
 
 **Links to event information of the small seismic events following the
 North Korea's 3 September 2017 nuclear test:**
@@ -50,9 +50,9 @@ North Korea's 3 September 2017 nuclear test:**
 -   For the seismic results of the North Korea's 3 September 2017
     nuclear test, [click here](http://seis.ustc.edu.cn/en/nk-nuclear-test-20170903/).
 -   For the seismic results of the North Korea's 9 September 2016
-    nuclear test, [click here](http://seis.ustc.edu.cn/_s223/2016/0909/c10084a113807/page.psp).
+    nuclear test, [click here](http://seis.ustc.edu.cn/en/nk-nuclear-test-20160909/).
 -   For the seismic results of the North Korea's 6 January 2016 nuclear
-    test, [click here](http://seis.ustc.edu.cn/_s223/2016/0909/c10084a113822/page.psp).
+    test, [click here](http://seis.ustc.edu.cn/en/nk-nuclear-test-20160106/).
 -   For the scientific publication of the study of North Korea's 2013
     nuclear test, [click here](http://222.195.83.195/wen/Reprints/ZhangWen13GRL.pdf).
 -   For the scientific publication of the study of North Korea's 2010
