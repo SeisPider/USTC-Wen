@@ -1,5 +1,5 @@
 ---
-title: 中国科大研究揭示朝鲜用于核试验的万塔山已塌陷
+title: 本研究组研究揭示朝鲜用于核试验的万塔山已塌陷
 urllink: /research/north-korea-nuclear-test-mountain-has-collapsed
 ---
 
