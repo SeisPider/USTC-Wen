@@ -7,6 +7,6 @@ build: content/publication.md
 	hugo
 
 deploy: clean build
-	lftp -c "debug 1; set ftps:initial-prot ; open ftp://${FTP_USER}:${FTP_PASSWD}@${FTP_HOST};  mirror -cRvPn --delete-first public web; quit;"
+	lftp -c "debug 1; set ftps:initial-prot ; open ftp://${FTP_USER}:${FTP_PASSWD}@${FTP_HOST};  mirror -cRvPn --Remove-source-files public web; quit;"
 clean:
 	-rm -r public/
