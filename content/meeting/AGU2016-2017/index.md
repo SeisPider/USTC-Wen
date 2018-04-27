@@ -23,13 +23,6 @@ rotation or temporal change of inner core surface
 
 ABSTRACT NUMBER: DI33B−0405 (AGU 2017)
 
-![](./JYYao-AGU2017-NKNT-thumbnail.png)
-
-High-precision Location, Yield and Tectonic Release of North Korea's 3
-		Sepetember 2017 Nuclear Test
-
-ABSTRACT NUMBER: S43H−2967 (AGU 2017)
-
 ![](./LLTang-AGU2017-thumbnail.png)
 Source discrimination between Mining blasts and Earthquakes in Tianshan
 		   orogenic belt, NW China
@@ -73,8 +66,7 @@ ABSTRACT NUMBER: G51B-0749 (AGU 2017)
 **附件:**
 
 [田冬冬(2016)](DDTian-AGU2016.pdf), [田冬冬(2017-ICB)](DDTian-AGU2017-ICB.pdf),
-[田冬冬(2017-NKNT)](DDTian-AGU2017-NKNT.pdf), [姚家园(2017-ICB)](JYYao-AGU2017-IC.png),
-[姚家园(2017-NKNT)](JYYao-AGU2017-NKNT.png),\\
+[姚家园(2017-ICB)](JYYao-AGU2017-IC.png),
 [唐兰兰(2017)](LLTang-AGU2017.pdf), [程世华(2017)](SHCheng-AGU2017.pdf),
 [毛仕卓(2017)](SZMao-AGU2017.pdf), [肖晓(2017)](XXiao-AGU2017.pdf),
 [刘彦吾(2017)](YWLiu-AGU2017.png),

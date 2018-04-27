@@ -5,7 +5,6 @@ date: 2018-04-24
 
 ## 2018
 
-- Tian, D., Yao, J. and **Wen, L.**, 2018, Collapse and earthquake swarm after North Korea's 3 September 2017 nuclear test, ***Geophys. Res. Lett.***, (*accepted and in publication*).
 - Lu, Z., Yi, H. and **Wen, L.**, 2018, Loading-induced Earth's stress change over time, ***J. Geophys. Res. Solid Earth***, (*accepted and in publication*).
 - 温联星, 田冬冬, 姚家园, 2018, 地球内核及其边界的结构特征和动力学过程, ***地球物理学报***, 61(3), 803-818, doi:[10.6038/cjg2018L0500](https://dx.doi.org/10.6038/cjg2018L0500).
 
