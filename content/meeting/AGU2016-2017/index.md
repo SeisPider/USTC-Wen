@@ -16,12 +16,6 @@ Three Types of Earth's Inner Core Boundary
 
 ABSTRACT NUMBER: DI33B−0404 (AGU 2017)
 
-![](./DDTian-AGU2017-NKNT-thumbnail.png)
-
-Collapse and Earthquake Swarm after North Korea's 3 September 2017 Nuclear Test
-
-ABSTRACT NUMBER: S43H−2968 (AGU 2017)
-
 ![](./JYYao-AGU2017-IC-thumbnail.png)
 
 Temporal change of seismic Earth's inner core phases: inner core differential
