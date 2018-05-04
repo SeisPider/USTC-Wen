@@ -59,3 +59,11 @@ img {
   margin-top: 5px;
   margin-bottom: 5px;
 }
+
+/* Single-direction drop shadow */
+
+hr.hline {
+  height: 5px;
+  border: 0;
+  box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
