@@ -8,7 +8,7 @@
   <tr>
     <td align="left" class="content1">
       <ul class="list-items">
-        {{ range first 5 (where .Site.Pages.ByDate.Reverse "Section" "research") }}
+        {{ range first 3 (where .Site.Pages.ByDate.Reverse "Section" "research") }}
         <li><a href='{{ .Permalink }}' target='_blank' title='{{ .Title }}'>{{ .Title }}</a></li>
         {{ end }}
       </ul>

@@ -6,7 +6,7 @@
   </tr>
   <td align="left" class="fnxwcontent">
     <ul class="list-items">
-      {{ range first 5 (where .Site.Pages.ByDate.Reverse "Section" "report") }}
+      {{ range first 3 (where .Site.Pages.ByDate.Reverse "Section" "report") }}
       <li><a class="main-url" href="{{ .Permalink }}" target="_blank" title="{{ .Title }}">{{ .Title }}</a></li>
       {{ end }}
     </ul>
