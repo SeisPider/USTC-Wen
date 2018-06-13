@@ -14,7 +14,7 @@ Please refer to the article in the reference list for more details about the met
 
 
 
-Welcome to use the database. Please [click here](http://dx.doi.org/10.7910/DVN/2EHVUP) to redirect to the download website. If you have trouble clicking the link, please copy and paste this website address to your browser’s address bar: http://dx.doi.org/10.7910/DVN/2EHVUP
+Welcome to use the database. Please [click here](http://222.195.83.195/wen/stressdatabase/) to redirect to the download website. If you have trouble clicking the link, please copy and paste this website address to your browser’s address bar: http://222.195.83.195/wen/stressdatabase/
 
 If you have any questions or suggestions about the database, welcome to contact Zhou Lu (<luzhou@mail.ustc.edu.cn>) or Hang Yi (<yihang@xcu.edu.cn>).
 
