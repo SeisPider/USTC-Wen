@@ -21,4 +21,4 @@ If you have any questions or suggestions about the database, welcome to contact 
 
 **Reference:**
 
-Lu, Z., Yi, H., & Wen, L. (2018). Loading-induced Earth’s stress change over time. Journal of Geophysical Research: Solid Earth, in revision.
+Lu Z., Yi H., & Wen L. (2018). Loading-induced Earth’s stress change over time. *Journal of Geophysical Research: Solid Earth*, doi:[10.1029/2017JB015243](https://doi.org/10.1029/2017JB015243)
