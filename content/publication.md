@@ -1,11 +1,11 @@
 ---
 title: 历年发表文献
-date: 2018-08-05
+date: 2018-08-06
 ---
 
 ## 2018
 
-- Yao, J., Tian, D., Sun, L. and **Wen, L.**, 2018, Triggered seismicity after North Korea’s 3 September 2017 nuclear test, ***Seismol. Res. Lett.***, (*accepted*).
+- Yao, J., Tian, D., Lu, Z., Sun, L. and **Wen, L.**, 2018, Triggered seismicity after North Korea’s 3 September 2017 nuclear test, ***Seismol. Res. Lett.***, (*accepted*).
 - Yao, J., Tian, D., Sun, L. and **Wen, L.**, 2018, Source characteristics of North Korea’s 3 September 2017 nuclear test, ***Seismol. Res. Lett.***, (*accepted*).
 - Tang, L., Lu, Z., Zhang, M., Sun, L. and **Wen, L.**, 2018, Seismicity induced by simultaneous abrupt changes of injection rate and well pressure in Hutubi gas field, ***J. Geophys. Res. Solid Earth***, doi:[10.1029/2018JB015863](https://dx.doi.org/10.1029/2018JB015863).
 - Chen, Y., Meng, L., Zhang, A. and **Wen, L.**, 2018, Source complexity of the 2015 Mw 7.9 Bonin earthquake, ***Geochemistry, Geophysics, Geosystems***, doi:[10.1029/2018GC007489](https://dx.doi.org/10.1029/2018GC007489).
