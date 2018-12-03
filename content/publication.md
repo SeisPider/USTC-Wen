@@ -1,14 +1,15 @@
 ---
 title: 历年发表文献
-date: 2018-09-13
+date: 2018-12-03
 ---
 
 ## 2018
 
-- Yao, J., Tian, D., Lu, Z., Sun, L. and **Wen, L.**, 2018, Triggered seismicity after North Korea’s 3 September 2017 nuclear test, ***Seismol. Res. Lett.***, doi:[10.1785/0220180135](https://dx.doi.org/10.1785/0220180135).
-- Yao, J., Tian, D., Sun, L. and **Wen, L.**, 2018, Source characteristics of North Korea’s 3 September 2017 nuclear test, ***Seismol. Res. Lett.***, doi:[10.1785/0220180134](https://dx.doi.org/10.1785/0220180134).
-- Tang, L., Lu, Z., Zhang, M., Sun, L. and **Wen, L.**, 2018, Seismicity induced by simultaneous abrupt changes of injection rate and well pressure in Hutubi gas field, ***J. Geophys. Res. Solid Earth***, doi:[10.1029/2018JB015863](https://dx.doi.org/10.1029/2018JB015863).
-- Chen, Y., Meng, L., Zhang, A. and **Wen, L.**, 2018, Source complexity of the 2015 Mw 7.9 Bonin earthquake, ***Geochemistry, Geophysics, Geosystems***, doi:[10.1029/2018GC007489](https://dx.doi.org/10.1029/2018GC007489).
+- Lu, Z. and **Wen, L.**, 2018, Strong hydro-related localized long-period crustal deformation observed in the Plate Boundary Observatory borehole strainmeters, ***Geophys. Res. Lett.***, doi:[10.1029/2018GL080856](https://dx.doi.org/10.1029/2018GL080856).
+- Yao, J., Tian, D., Lu, Z., Sun, L. and **Wen, L.**, 2018, Triggered seismicity after North Korea’s 3 September 2017 nuclear test, ***Seismol. Res. Lett.***, 89(6), 2085-2093, doi:[10.1785/0220180135](https://dx.doi.org/10.1785/0220180135).
+- Yao, J., Tian, D., Sun, L. and **Wen, L.**, 2018, Source characteristics of North Korea’s 3 September 2017 nuclear test, ***Seismol. Res. Lett.***, 89(6), 2078-2084, doi:[10.1785/0220180134](https://dx.doi.org/10.1785/0220180134).
+- Tang, L., Lu, Z., Zhang, M., Sun, L. and **Wen, L.**, 2018, Seismicity induced by simultaneous abrupt changes of injection rate and well pressure in Hutubi gas field, ***J. Geophys. Res. Solid Earth***, 123(7), 5929-5944, doi:[10.1029/2018JB015863](https://dx.doi.org/10.1029/2018JB015863).
+- Chen, Y., Meng, L., Zhang, A. and **Wen, L.**, 2018, Source complexity of the 2015 Mw 7.9 Bonin earthquake, ***Geochemistry, Geophysics, Geosystems***, 19(7), 2109-2120, doi:[10.1029/2018GC007489](https://dx.doi.org/10.1029/2018GC007489).
 - Tian, D., Yao, J. and **Wen, L.**, 2018, Collapse and earthquake swarm after North Korea's 3 September 2017 nuclear test, ***Geophys. Res. Lett.***, 45(9), 3976-3983, doi:[10.1029/2018GL077649](https://dx.doi.org/10.1029/2018GL077649).
 - Lu, Z., Yi, H. and **Wen, L.**, 2018, Loading-induced Earth's stress change over time, ***J. Geophys. Res. Solid Earth***, 123(5), 4285-4306, doi:[10.1029/2017JB015243](https://dx.doi.org/10.1029/2017JB015243).
 - 温联星, 田冬冬, 姚家园, 2018, 地球内核及其边界的结构特征和动力学过程, ***地球物理学报***, 61(3), 803-818, doi:[10.6038/cjg2018L0500](https://dx.doi.org/10.6038/cjg2018L0500).
