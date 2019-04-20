@@ -1,7 +1,11 @@
 ---
 title: 历年发表文献
-date: 2018-12-29
+date: 2019-04-20
 ---
+
+## 2019
+
+- Xu, Y. and **Wen, L.**, 2019, Relative Directivity Inversion of Small Earthquake Rupture, ***Geophys. J. Int.***, (*accepted*).
 
 ## 2018
 

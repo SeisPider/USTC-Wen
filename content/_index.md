@@ -1,5 +1,5 @@
 ---
-title: 本研究组发现地下水变化引起的强烈地壳形变
-urllink: /research/hydro-related-crustal-deformation/
+title: 本研究组发展了一套确定小地震破裂方向的新方法
+urllink: /research/RDI-method/
 ---
-近日，中国科学技术大学地震与地球内部物理实验室温联星研究组，利用美国板块边界观测平台（PBO）的钻孔应变观测资料，发现地壳浅层局部区域发生了比地球固体潮应变大1至2个数量级的强烈长周期形变。论文指出该强烈应变与当地地下水变化相关，并提出了其物理机制。该成果首次发现与地下水相关的异常强烈形变信号，并提出了一种由降水至地下水渗透及孔弹反应产生地壳变形的物理机制。 2018年11月30日，该成果发表于国际著名期刊《地球物理研究快报》（Geophysical Research Letters）。
+近日，中国科学技术大学地震与地球内部物理实验室温联星研究组提出了一套确定小地震破裂方向的新方法并将其命名为 Relative Directivity Inversion method，简称RDI方法。该方法已发表在国际知名地学期刊《国际地球物理学杂志》(Geophysical Journal International) 上。其作者为研究组博士生徐妍妍及其导师温联星教授。
