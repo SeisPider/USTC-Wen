@@ -1,10 +1,11 @@
 ---
 title: 历年发表文献
-date: 2019-05-08
+date: 2019-07-25
 ---
 
 ## 2019
 
+- Yao, J., Tian, D., Sun, L. and **Wen, L.**, 2019, Temporal Change of Seismic Earth's Inner Core Phases: Inner Core Differential Rotation or Temporal Change of Inner Core Surface?, ***J. Geophys. Res. Solid Earth***, doi:[10.1029/2019JB017532](https://dx.doi.org/10.1029/2019JB017532), (*accepted*).
 - Xu, Y. and **Wen, L.**, 2019, Relative Directivity Inversion of Small Earthquake Rupture, ***Geophys. J. Int.***, 218(1), 631-639, doi:[10.1093/gji/ggz179](https://dx.doi.org/10.1093/gji/ggz179).
 
 ## 2018
