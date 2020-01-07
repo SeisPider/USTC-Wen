@@ -1,11 +1,17 @@
 ---
 title: 历年发表文献
-date: 2019-07-25
+date: 2020-01-07
 ---
+
+## 2020
+
+- **Wen, L.**, 2020, Earth’s Structure, Core., ***Encyclopedia of Solid Earth Geophysics. Encyclopedia of Earth Sciences Series.***, (*accepted*).
+- Tang, L., Zhang, M. and **Wen, L.**, 2020, Support vector machine classification of seismic events in the Tianshan orogenic belt, ***J. Geophys. Res. Solid Earth***, doi:[10.1029/2019JB018132](https://dx.doi.org/10.1029/2019JB018132), (*accepted*).
+- Wang, Y., He, Y., Lu, G. and **Wen, L.**, 2020, Seismic, thermal and compositional structures of the stagnant slab in the mantle transition zone beneath southeastern China, ***Tectonophysics***, 775, 228208, doi:[10.1016/j.tecto.2019.228208](https://dx.doi.org/10.1016/j.tecto.2019.228208).
 
 ## 2019
 
-- Yao, J., Tian, D., Sun, L. and **Wen, L.**, 2019, Temporal Change of Seismic Earth's Inner Core Phases: Inner Core Differential Rotation or Temporal Change of Inner Core Surface?, ***J. Geophys. Res. Solid Earth***, doi:[10.1029/2019JB017532](https://dx.doi.org/10.1029/2019JB017532), (*accepted*).
+- Yao, J., Tian, D., Sun, L. and **Wen, L.**, 2019, Temporal Change of Seismic Earth's Inner Core Phases: Inner Core Differential Rotation or Temporal Change of Inner Core Surface?, ***J. Geophys. Res. Solid Earth***, 124(7), 6720-6736, doi:[10.1029/2019JB017532](https://dx.doi.org/10.1029/2019JB017532).
 - Xu, Y. and **Wen, L.**, 2019, Relative Directivity Inversion of Small Earthquake Rupture, ***Geophys. J. Int.***, 218(1), 631-639, doi:[10.1093/gji/ggz179](https://dx.doi.org/10.1093/gji/ggz179).
 
 ## 2018

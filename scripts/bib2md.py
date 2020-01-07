@@ -134,7 +134,7 @@ if __name__ == "__main__":
         sys.exit()
     bibfile, mdfile = sys.argv[1:]
 
-    startyear, endyear = 1994, 2019
+    startyear, endyear = 1994, 2020
 
     biblist = {}
     for year in range(startyear, endyear+1):
