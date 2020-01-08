@@ -1,12 +1,12 @@
 ---
 title: 历年发表文献
-date: 2020-01-07
+date: 2020-01-08
 ---
 
 ## 2020
 
 - **Wen, L.**, 2020, Earth’s Structure, Core., ***Encyclopedia of Solid Earth Geophysics. Encyclopedia of Earth Sciences Series.***, (*accepted*).
-- Tang, L., Zhang, M. and **Wen, L.**, 2020, Support vector machine classification of seismic events in the Tianshan orogenic belt, ***J. Geophys. Res. Solid Earth***, doi:[10.1029/2019JB018132](https://dx.doi.org/10.1029/2019JB018132), (*accepted*).
+- Tang, L., Zhang, M. and **Wen, L.**, 2020, Support vector machine classification of seismic events in the Tianshan orogenic belt, ***J. Geophys. Res. Solid Earth***, 125(1), e2019JB018132, doi:[10.1029/2019JB018132](https://dx.doi.org/10.1029/2019JB018132).
 - Wang, Y., He, Y., Lu, G. and **Wen, L.**, 2020, Seismic, thermal and compositional structures of the stagnant slab in the mantle transition zone beneath southeastern China, ***Tectonophysics***, 775, 228208, doi:[10.1016/j.tecto.2019.228208](https://dx.doi.org/10.1016/j.tecto.2019.228208).
 
 ## 2019
